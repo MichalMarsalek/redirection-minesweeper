@@ -1,0 +1,2 @@
+# Minesweeper
+ Redirection minesweeper game
